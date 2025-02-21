@@ -1,0 +1,1 @@
+This repository contains a simple example of a ZeroDivisionError in Python.  The `bug.py` file demonstrates the error, while `bugSolution.py` provides a solution using exception handling. This is a common but easily overlooked error, highlighting the importance of input validation and robust error handling in Python programming.
